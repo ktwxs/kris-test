@@ -1,0 +1,290 @@
+# Qcodo Distributed Language File
+# for Spanish (Argentina)
+# Contributed by marcosdsanchez @ thinkclear dot com dot ar
+
+#qcodo_info
+MsgId "Start Page"
+MsgStr "Página de inicio"
+
+MsgId "It worked!"
+MsgStr "Ha funcionado!"
+
+MsgId "If you are seeing this, then it means that the framework has been successfully installed."
+MsgStr "Si estás viendo esto, es porque el framework ha sido instalado correctamente."
+
+MsgId "Make sure your database connection properties are up to date, and then you can add tables to your database.  To codegen, you will want to run the codegen using the qcodo codegen CLI tool from the command-line:"
+MsgStr "Asegurate que la conexión a la base de datos esté actualizada. Luego podrás agregar tablas a tu base.  Para codegenerear, deberás ejecutar el siguiente comando desde la linea de comando:"
+
+MsgId "After codegenning, you can use either of the following tools to view the \"generated\" draft pages of your database application:"
+MsgStr "Luego de codegenerear, podrás usar los siguientes links para ver las páginas \"borrador\" de tu aplicación:"
+
+MsgId "to view the generated Form Drafts of your database"
+MsgStr "para ver los formularios borradores generados de tu base de datos"
+
+MsgId "to view the generated Panel Drafts "dashboard" of your database"
+MsgStr "para ver los paneles borradores generados "panel de control" de tu base de datos"
+
+MsgId "For more information, please go to the Qcodo website at:"
+MsgStr "Para más información, por favor dirigete al sitio de Qcodo en:"
+
+# For QTextBoxBase controls
+MsgId "%s is required"
+MsgStr "%s es obligatorio"
+
+MsgId "Required"
+MsgStr "Obligatorio"
+
+MsgId "%s must have at least %s characters"
+MsgStr "%s debe tener como mínimo %s caracteres"
+
+MsgId "Must have at least %s characters"
+MsgStr "Debe tener como mínimo %s caracteres"
+
+MsgId "%s debe tener como máximo %s caracteres"
+MsgStr "%s debe tener como máximo %s caracteres"
+
+MsgId "Debe tener como máximo %s caracteres"
+MsgStr "Debe tener como máximo %s caracteres"
+
+# For QWriteBox controls
+MsgId ""
+"Tags &lt;b&gt; &lt;u&gt; &lt;i&gt; &lt;br&gt; &lt;code&gt; and &lt;http://...&gt; are allowed.  "
+"Use ** at the beginning of any line for a bulleted list."
+MsgStr ""
+"Etiquetas &lt;b&gt; &lt;u&gt; &lt;i&gt; &lt;br&gt; &lt;code&gt; y &lt;http://...&gt; están permitidas.  "
+"Use ** al comienzo de cada linea para una lista por puntos."
+
+
+# For QPaginatedControl controls
+MsgId "item"
+MsgStr "artículo"
+
+MsgId "items"
+MsgStr "artículos"
+
+
+# For QListBox and QCalendar controls
+MsgId "Reset"
+MsgStr "Borrar"
+
+
+# For ListBoxes in Generated Forms
+MsgId "- Select One -"
+MsgStr "- Seleccione Uno -"
+
+
+# For QIntegerTextBox and QFloatTextBox controls
+MsgId "Invalid Integer"
+MsgStr "Número entero no válido"
+
+MsgId "Invalid Float"
+MsgStr "Número decimal no válido"
+
+MsgId "Value must be less than %s"
+MsgStr "El valor debe ser menor de %s"
+
+MsgId "Value must be greater than %s"
+MsgStr "El valor debe ser mayor de %s"
+
+# For QEmailTextbox control
+MsgId "Invalid e-mail address"
+MsgStr "Dirección de correo electrónico inválida"
+
+# For QDateTimeTextBox
+MsgId "For example, \"Mar 20, 4:30pm\" or \"Mar 20\""
+MsgStr "Por ejemplo, \"Mar 20, 4:30pm\" o \"Mar 20\""
+
+# For QDataGrid controls
+MsgId "<b>Results:</b>&nbsp;Viewing&nbsp;%s&nbsp;%s-%s&nbsp;of&nbsp;%s."
+MsgStr "<b>Resultados:</b>&nbsp;Mostrando&nbsp;%s&nbsp;%s-%s&nbsp;de&nbsp;%s."
+
+MsgId "<b>Results:</b> No %s found."
+MsgStr "<b>Resultados:</b> No se ha encontrado ning&uacute; %s."
+
+MsgId "<b>Results:</b> 1 %s found."
+MsgId_Plural "<b>Results:</b> %s %s found."
+MsgStr[0] "<b>Resultados:</b> Hay 1 %s."
+MsgStr[1] "<b>Resultados:</b> Hay %s %s."
+
+
+# For QPaginator controls
+MsgId "Previous"
+MsgStr "Anterior"
+
+MsgId "Next"
+MsgStr "Siguiente"
+
+
+# For the List FormDraft Include template
+MsgId "List All"
+MsgStr "Mostrar Todos"
+
+MsgId "Create a New"
+MsgStr "Crear uno Nuevo"
+
+MsgId "Go to \"Form Drafts\""
+MsgStr "Ir a \"Formularios Modelo\""
+
+# For meta DataGrids
+MsgId "true"
+MsgStr "verdadero"
+
+MsgId "false"
+MsgStr "falso"
+
+# For the List FormDraft Include template
+MsgId "List All"
+MsgStr "Listar Todos"
+
+MsgId "Create a New"
+MsgStr "Crear un Nuevo"
+
+MsgId "Go to \"Form Drafts\""
+MsgStr "Ir a \"Borradores de Formularios\""
+
+MsgId "Go to \"Panel Drafts\""
+MsgStr "Ir a \"Borradores de Panel\""
+
+MsgId "Form Drafts"
+MsgStr "Borradores de Formularios"
+
+MsgId "Panel Drafts"
+MsgStr "Borradores de Paneles"
+
+# For the Edit FormBase class template
+MsgId "Create"
+MsgStr "Crear"
+
+MsgId "Edit"
+MsgStr "Editar"
+
+MsgId "Save"
+MsgStr "Guardar"
+
+MsgId "Cancel"
+MsgStr "Cancelar"
+
+MsgId "Delete"
+MsgStr "Borrar"
+
+MsgId "Are you SURE you want to DELETE this"
+MsgStr "¿Está SEGURO de querer BORRAR este"
+
+
+# For the form_drafts/index.php page
+MsgId "List of Form Drafts"
+MsgStr "Lista de Formularios Borrador"
+
+MsgId "View List"
+MsgStr "Mostrar Lista"
+
+MsgId "Create New"
+MsgStr "Crear Nuevo"
+
+MsgId "Go to Dashboard"
+MsgStr "Ir al panel de administración"
+
+# For form_drafts/dashboard/index.php page
+MsgId "Select a Class to View/Edit"
+MsgStr "Selecciona una clase para Ver/Editar"
+
+MsgId "AJAX Dashboard"
+MsgStr "Panel de administración AJAX"
+
+#For the QDateTime-Related Objects and Controls
+
+MsgId "Invalid Date"
+MsgStr "Fecha Inválida"
+
+msgid "Today"
+msgstr "Hoy"
+
+msgid "January"
+msgstr "Enero"
+
+msgid "February"
+msgstr "Febrero"
+
+msgid "March"
+msgstr "Marzo"
+
+msgid "April"
+msgstr "Abril"
+
+msgid "May"
+msgstr "Mayo"
+
+msgid "June"
+msgstr "Junio"
+
+msgid "July"
+msgstr "Julio"
+
+msgid "August"
+msgstr "Agosto"
+
+msgid "September"
+msgstr "Septiembre"
+
+msgid "October"
+msgstr "Octubre"
+
+msgid "November"
+msgstr "Noviembre"
+
+msgid "December"
+msgstr "Diciembre"
+
+msgid "Jan"
+msgstr "Ene"
+
+msgid "Feb"
+msgstr "Feb"
+
+msgid "Mar"
+msgstr "Mar"
+
+msgid "Apr"
+msgstr "Abr"
+
+msgid "Jun"
+msgstr "Jun"
+
+msgid "Jul"
+msgstr "Jul"
+
+msgid "Aug"
+msgstr "Ago"
+
+msgid "Sep"
+msgstr "Sep"
+
+msgid "Oct"
+msgstr "Oct"
+
+msgid "Nov"
+msgstr "Nov"
+
+msgid "Dec"
+msgstr "Dic"
+
+msgid "Sun"
+msgstr "Dom"
+
+msgid "Mon"
+msgstr "Lun"
+
+msgid "Tue"
+msgstr "Mar"
+
+msgid "Wed"
+msgstr "Mi&eacute;"
+
+msgid "Thu"
+msgstr "Jue"
+
+msgid "Fri"
+msgstr "Vie"
+
+msgid "Sat"
+msgstr "S&aacute;b"
