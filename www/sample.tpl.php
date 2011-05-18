@@ -11,4 +11,5 @@
 	<p><?php $this->btnButton->Render(); ?></p>
 <?php $this->RenderEnd(); ?>
 
+This is only a test
 </body></html>
