@@ -15,6 +15,9 @@ This is only a test.
 
 This is my second changeset.
 
+This is a third test
+
+This will conflict with the new stuff from the upstream master.
 
 
 ///////////////////////////////////
